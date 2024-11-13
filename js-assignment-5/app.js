@@ -1,4 +1,3 @@
-
 const addForm = document.querySelector(".add");
 const search = document.querySelector(".search input");
 const list = document.querySelector(".todos");
